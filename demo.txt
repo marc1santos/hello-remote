@@ -1,1 +1,1 @@
-Here is some text we are adding to demo.txt.
+Here is some text that is edited in the local repor and we are adding to demo.txt.
